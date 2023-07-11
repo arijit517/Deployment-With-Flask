@@ -1,0 +1,25 @@
+Flassger web Browser :
+
+127.0.0.1:5000/apidocs
+
+Click on GET
+
+Click on TRY OUT
+
+Put the variable values beside the Variables Name
+
+Click on Execute
+
+You will get the response in the response body
+
+Next ......
+
+Click on POST
+
+Click on TRY OUT
+
+Choose / Select the test file from local machine
+
+Click on Execute
+
+You will get the response in the response body

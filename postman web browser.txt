@@ -1,0 +1,29 @@
+
+Go to postman web browser
+
+Go to my workspace
+
+click on +
+
+select GET 
+
+127.0.0.1:5000/predict
+
+input variables under keys and respective values
+
+click SEND
+
+
+Again click on +
+
+select POST from dropdown 
+
+127.0.0.1:5000/predict_file
+
+click on body
+
+input file under key and testfile.csv under value select file from local 
+
+click SEND
+
+..........................................................................................
